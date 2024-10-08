@@ -1,0 +1,9 @@
+gradient colors:
+
+dark_blue: #0F0449
+light_blue: #8F79F3
+pink: #FD0088
+
+
+
+for the shadow: #3C27FE
